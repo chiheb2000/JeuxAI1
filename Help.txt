@@ -1,0 +1,26 @@
+
+Bienvenue dans Deep Blue Challenge !
+
+Questions et réponses fréquentes :
+
+1. Comment déplacer mon bateau ?
+   Utilisez les touches fléchées du clavier pour déplacer votre bateau.
+
+2. Que faire pour éviter de perdre ?
+   - Évitez les collisions avec le bateau IA et les îles.
+   - Maintenez votre carburant en ramassant les bonus verts.
+   - Évitez les pièges rouges, car ils réduisent votre carburant.
+
+3. C'est quoi le Konami Code ?
+   Une astuce secrète : 
+   Haut, Haut, Bas, Bas, Gauche, Droite, Gauche, Droite, B, A
+   Saisissez cette séquence pendant le jeu pour activer un carburant illimité.
+
+4. Comment gagner ?
+   - Survivez aux niveaux sans collision.
+   - Atteignez le niveau maximum pour afficher l'écran "You Win!".
+
+5. Quelle est la fonctionnalité de la mini-carte ?
+   La mini-carte en haut à droite vous aide à voir les positions des bateaux et des îles.
+
+Amusez-vous bien et protégez nos océans !
